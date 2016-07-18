@@ -2,7 +2,7 @@ body {
   padding-left: 45px;
   padding-top: 32px;
   font-family: font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   color: #f9e479;
   background-color: #757165 }
 ul {
@@ -15,7 +15,7 @@ ul {
 }
 h1 {
 	font-family: font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 	border: solid;
 }
 li {
@@ -38,4 +38,11 @@ a:visited{
 
 a:link {
 	color: GREEN
+}
+p2{
+	
+	font-size:25;
+}
+.borderbox{
+	border:solid;
 }
